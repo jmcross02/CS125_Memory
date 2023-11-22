@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Work Area\TextTools\TextTools\TextDraw.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Work Area\TextTools\TextTools\Source.cpp(44,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TextTools.vcxproj -> C:\Work Area\TextTools\Debug\TextTools.exe
